@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Bhumika Chouhan 👋
 
-<!--
-**bhumikachouhan2209/bhumikachouhan2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student (AI Specialization)  
+📊 Aspiring Data Analyst | Python | SQL | Power BI  
+📍 Indore, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Power BI
+- SQL
+- Data Analysis
+- Data Visualization
+- Excel
+- Python
+- Pandas
+- NumPy
+
+---
+
+## 📂 Featured Projects
+
+### 🚗 Uber Supply Demand Gap Analysis
+Analyzed Uber ride request data to identify demand–supply mismatches and peak-hour gaps using Python, SQL, and Excel dashboards.
+
+### 🎬 Amazon Prime Content Analysis
+Exploratory Data Analysis of Amazon Prime movies and TV shows dataset to identify trends in genres, release years, and country distribution.
+
+### 💳 PhonePe Transaction Data Analysis
+Analyzed digital transaction trends across Indian states and created a Power BI dashboard to visualize transaction growth.
+
+---
+
+## 📫 Contact
+📧 bhumikachouhan2004@gmail.com  
+🔗 LinkedIn: https://linkedin.com  
+💻 GitHub: https://github.com/bhumikachouhan2209
